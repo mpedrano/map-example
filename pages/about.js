@@ -2,7 +2,7 @@ import Head from 'next/head'
 import styles from '@/styles/About.module.css'
 import data from '../data/staff.json'
 import { useState } from 'react'
-import Card from '@/components/Card/about.js'
+import Card from '@../components/Card/about.js'
 import Link from 'next/link'
 
 export default function About() {

@@ -20,7 +20,7 @@
             "firstName": "Person 3",
             "gpa": 3.2,
             "department": "Computing",
-            "degree": "Applied Software Development Certificate",
+            "degree": "Applied Software Development",
             "graduted": 2018
         },
         {
@@ -28,7 +28,7 @@
             "firstName": "Person 4",
             "gpa": 3.9,
             "department": "Computing",
-            "degree": "Computer Systems Diploma",
+            "degree": "Computer Systems",
             "graduted": 2021
         },
         {
@@ -36,7 +36,7 @@
             "firstName": "Person 5",
             "gpa": 3.2,
             "department": "Computing",
-            "degree": "Applied Computer Information Systems Certificate",
+            "degree": "Applied Computer Information Systems",
             "graduted": 2021
         }
 ]

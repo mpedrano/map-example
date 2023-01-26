@@ -1,0 +1,20 @@
+[
+    {
+        "company": "Tokidoki",
+        "name": "Sandy",
+        "department": "Business",
+        "position": "Accountant"
+    },
+    {
+        "company": "Tokidoki",
+        "name": "Dusty",
+        "department": "Computing",
+        "position": "Software Developer"
+    },
+    {
+        "company": "Tokidoki",
+        "name": "Cactus Rocker",
+        "department": "Computing",
+        "position": "Web Developer"
+    }
+]

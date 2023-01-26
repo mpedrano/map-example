@@ -5,17 +5,28 @@
   align-items: center;
   padding: 6rem;
   min-height: 100vh;
+  font-family: var(--font-mono);
+  background-color: black;
 }
 
-.description {
-  display: inherit;
-  justify-content: inherit;
-  align-items: inherit;
-  font-size: 0.85rem;
-  max-width: var(--max-width);
-  width: 100%;
-  z-index: 2;
-  font-family: var(--font-mono);
+.header{
+  color: white;
+}
+
+.link {
+  padding: 10px 30px 10px 30px;
+  margin: 20px;
+  font-size: large;
+  color: white;
+  border: 2px solid white;
+  border-radius: 10px;
+}
+
+.departmentContainer{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 2rem;
 }
 
 .description a {
